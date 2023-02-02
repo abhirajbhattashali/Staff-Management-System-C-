@@ -1,5 +1,4 @@
-#Demo Git Repository
+#Staff Management System C++
 
-## Sup Guyzz
+## This project utilizes file handling in C++ to read,write,update and delete staff records
 
-## Yo
